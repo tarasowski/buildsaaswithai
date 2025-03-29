@@ -2,14 +2,17 @@
 Build SaaS with AI (for beginners)
 
 1. Git
-2. SMALL System design
+2. Project structure
+  - Use service oriented structure (to avoid later refacros)
+  - Use compiled languages to debug itself (Golang + Typescript)
+4. SMALL System design
    - "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin
    - "Refactoring: Improving the Design of Existing Code" by Martin Fowler
    - "The Pragmatic Programmer: Your Journey to Mastery" by Andrew Hunt and David Thomas
-3. Debugging:
+5. Debugging:
    - Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems
-4. Security
+6. Security
    - Web security JWT, XSS, Injections
-5. Audience
+7. Audience
    - Build your audience not marketing
 
