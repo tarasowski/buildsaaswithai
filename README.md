@@ -2,7 +2,8 @@
 Build SaaS with AI (for beginners)
 
 1. Git
-2. Project structure
+2. Learn compiled language Typescript + Golang by doing Katas (Codewars)
+3. Project structure
   - Use service oriented structure (to avoid later refacros)
   - Use compiled languages to debug itself (Golang + Typescript)
 4. SMALL System design
