@@ -5,6 +5,12 @@ Build SaaS with AI (for beginners)
 2. Learn compiled language Typescript (frontend) + Golang (backend) by doing Katas (Codewars)
 3. Project structure
   - Use service oriented structure (to avoid later refacros)
+  - Read more [here](https://github.com/tarasowski/buildsaaswithai/blob/main/Project%2BStructure.md)
+  - Monorepo (Single Repository for Backend & Frontend)
+  - Polyrepo (Separate Backend & Frontend Repositories)
+  - Service-Oriented Design (Microservices)
+  - Hexagonal (Ports & Adapters) / Clean Architecture (Backend)
+  - Full Stack Monolith
 4. SMALL System design
    - "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin
    - "Refactoring: Improving the Design of Existing Code" by Martin Fowler
